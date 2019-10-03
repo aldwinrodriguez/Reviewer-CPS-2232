@@ -1,11 +1,10 @@
 ﻿# Review-CPS-2232-Mod
 
-http://tiger.armstrong.edu/selftest/selftest9e?chapter=#
-
+http://tiger.armstrong.edu/selftest/selftest9e?chapter=# where '#' is the Chapter Number
 
 # Steps:
 
-- Copy Main.js or MainMin.js
+- Copy [Main.js](https://github.com/aldwinrodriguez/Review-CPS-2232-Mod/blob/master/Main.js) or [MainMin.js](https://github.com/aldwinrodriguez/Review-CPS-2232-Mod/blob/master/MainMin.js)
 
 - Open Debugger Console in your favorite Browser
 
