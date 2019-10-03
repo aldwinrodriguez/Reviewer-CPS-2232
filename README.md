@@ -11,22 +11,7 @@ http://tiger.armstrong.edu/selftest/selftest9e?chapter=#
 
 - Paste in Debugger Console and enjoy !!
 
-## '#' is a variable
-Replace it for the Chapter number:
-20 - 30
-
-E.g. 
-
-  http://tiger.armstrong.edu/selftest/selftest9e?chapter=20
-  
-  or
-  
-  http://tiger.armstrong.edu/selftest/selftest9e?chapter=25
-  
-You get it ^^
-
-
-
+## Links :
 
 http://tiger.armstrong.edu/selftest/selftest9e?chapter=20
 
