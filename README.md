@@ -2,7 +2,7 @@
 
 http://tiger.armstrong.edu/selftest/selftest9e?chapter=#
 
-'#' is a variable
+## '#' is a variable
 Replace it for the Chapter number:
 20 - 30
 
