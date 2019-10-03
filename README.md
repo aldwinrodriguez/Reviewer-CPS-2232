@@ -2,6 +2,15 @@
 
 http://tiger.armstrong.edu/selftest/selftest9e?chapter=#
 
+
+# Steps:
+
+- Copy Main.js or MainMin.js
+
+- Open Debugger Console in your favorite Browser
+
+- Paste in Debugger Console and enjoy !!
+
 ## '#' is a variable
 Replace it for the Chapter number:
 20 - 30
@@ -15,14 +24,6 @@ E.g.
   http://tiger.armstrong.edu/selftest/selftest9e?chapter=25
   
 You get it ^^
-
-# Steps:
-
-- Copy Main.js or MainMin.js
-
-- Open Debugger Console in your favorite Browser
-
-- Paste in Debugger Console and enjoy !!
 
 
 
