@@ -1,4 +1,5 @@
 ﻿# Review-CPS-2232-Mod
+ # Important Note: The website doesn't work anymore. This was a reviewer for quizes and tests in my Data Structures class. I basically made a JS script that will simplify everything, give me answers so I can review faster and much more efficient. I mainly took this opportunity to challenge my scripting skills. Sad that the website is down and I couldn't find the new site.
 
 http://tiger.armstrong.edu/selftest/selftest9e?chapter=# where '#' is the Chapter Number
 
